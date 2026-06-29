@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sanikaa205/DSA-Practice/tree/master/0001-two-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Sanikaa205/DSA-Practice/tree/master/0242-valid-anagram) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
