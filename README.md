@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Sanikaa205/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sanikaa205/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Sanikaa205/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Sanikaa205/DSA-Practice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sanikaa205/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/Sanikaa205/DSA-Practice/tree/master/0541-reverse-string-ii) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sanikaa205/DSA-Practice/tree/master/2351-first-letter-to-appear-twice) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sanikaa205/DSA-Practice/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/Sanikaa205/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/Sanikaa205/DSA-Practice/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Sanikaa205/DSA-Practice/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Sanikaa205/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Linked List
