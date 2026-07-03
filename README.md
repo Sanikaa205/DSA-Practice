@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Sanikaa205/DSA-Practice/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Sanikaa205/DSA-Practice/tree/master/0196-delete-duplicate-emails) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Sanikaa205/DSA-Practice/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0595-big-countries](https://github.com/Sanikaa205/DSA-Practice/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/Sanikaa205/DSA-Practice/tree/master/0619-biggest-single-number) |
 ## Dynamic Programming
 |  |
