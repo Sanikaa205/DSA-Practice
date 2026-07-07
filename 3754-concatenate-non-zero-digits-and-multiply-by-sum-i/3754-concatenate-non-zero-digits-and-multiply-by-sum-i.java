@@ -18,3 +18,5 @@ class Solution {
        return result;     
     }
 }
+
+//int is for small whole numbers, long is for large whole numbers
