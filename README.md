@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Sanikaa205/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Sanikaa205/DSA-Practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/0189-rotate-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sanikaa205/DSA-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
