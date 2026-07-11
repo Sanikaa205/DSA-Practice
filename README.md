@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sanikaa205/DSA-Practice/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Sanikaa205/DSA-Practice/tree/master/0231-power-of-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sanikaa205/DSA-Practice/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Sanikaa205/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Sanikaa205/DSA-Practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Sanikaa205/DSA-Practice/tree/master/0231-power-of-two) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sanikaa205/DSA-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
 |  |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanikaa205/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Sanikaa205/DSA-Practice/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
