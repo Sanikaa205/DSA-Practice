@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Sanikaa205/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Sanikaa205/DSA-Practice/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Sanikaa205/DSA-Practice/tree/master/0541-reverse-string-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sanikaa205/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sanikaa205/DSA-Practice/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sanikaa205/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Sanikaa205/DSA-Practice/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/Sanikaa205/DSA-Practice/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sanikaa205/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sorting
 |  |
 | ------- |
