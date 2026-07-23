@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Sanikaa205/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Sanikaa205/DSA-Practice/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Sanikaa205/DSA-Practice/tree/master/0541-reverse-string-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sanikaa205/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sanikaa205/DSA-Practice/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Sanikaa205/DSA-Practice/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Sanikaa205/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Linked List
 |  |
 | ------- |
