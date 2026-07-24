@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Sanikaa205/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Sanikaa205/DSA-Practice/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Sanikaa205/DSA-Practice/tree/master/0541-reverse-string-ii) |
+| [0844-backspace-string-compare](https://github.com/Sanikaa205/DSA-Practice/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sanikaa205/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sanikaa205/DSA-Practice/tree/master/2351-first-letter-to-appear-twice) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sanikaa205/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Sanikaa205/DSA-Practice/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/Sanikaa205/DSA-Practice/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Sanikaa205/DSA-Practice/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sanikaa205/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Sanikaa205/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Sanikaa205/DSA-Practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Sanikaa205/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Sanikaa205/DSA-Practice/tree/master/0541-reverse-string-ii) |
+| [0844-backspace-string-compare](https://github.com/Sanikaa205/DSA-Practice/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Sanikaa205/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -197,5 +200,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Sanikaa205/DSA-Practice/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Sanikaa205/DSA-Practice/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/Sanikaa205/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
