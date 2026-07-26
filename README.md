@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sanikaa205/DSA-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sanikaa205/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sanikaa205/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Sanikaa205/DSA-Practice/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Sanikaa205/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/Sanikaa205/DSA-Practice/tree/master/0877-stone-game) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sanikaa205/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sanikaa205/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sanikaa205/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sanikaa205/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sanikaa205/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sanikaa205/DSA-Practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Sanikaa205/DSA-Practice/tree/master/0231-power-of-two) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sanikaa205/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Sanikaa205/DSA-Practice/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sanikaa205/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sanikaa205/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
