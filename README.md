@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sanikaa205/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0682-baseball-game](https://github.com/Sanikaa205/DSA-Practice/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Sanikaa205/DSA-Practice/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/Sanikaa205/DSA-Practice/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Sanikaa205/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sanikaa205/DSA-Practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Sanikaa205/DSA-Practice/tree/master/0231-power-of-two) |
+| [0877-stone-game](https://github.com/Sanikaa205/DSA-Practice/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sanikaa205/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sanikaa205/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sanikaa205/DSA-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanikaa205/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Sanikaa205/DSA-Practice/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/Sanikaa205/DSA-Practice/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -206,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Sanikaa205/DSA-Practice/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Sanikaa205/DSA-Practice/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/Sanikaa205/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Sanikaa205/DSA-Practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
