@@ -1,14 +1,43 @@
 class Solution {
     public int maximumProduct(int[] nums) {
 
-        Arrays.sort(nums);
-        int n = nums.length;
+        int m1 = Integer.MIN_VALUE;
+        int m2 = Integer.MIN_VALUE;
+        int m3 = Integer.MIN_VALUE;
+        int l1 = Integer.MAX_VALUE;
+        int l2 = Integer.MAX_VALUE;
 
-        int ans = nums[n-1]*nums[n-2]*nums[n-3];
+        for(int n : nums)
+        {
+            if(n > m1)
+            {
+                m3 = m2;
+                m2 = m1;
+                m1 = n;
+            }
+            else if(n > m2)
+            {
+                m3 = m2;
+                m2 = n;
+            }
+            else if(n > m3)
+            {
+                m3 = n;
+            }
 
-        int ans1 = nums[0]*nums[1]*nums[n-1];
+            if(n < l1)
+            {
+                l2 = l1;
+                l1 = n;
+            
+            }
+            else if(n < l2)
+            {
+                l2 = n;
+            }
+        }
 
-        return Math.max(ans, ans1);
+        return Math.max(m1*m2*m3 , l1*l2*m1);
         
     }
 }
