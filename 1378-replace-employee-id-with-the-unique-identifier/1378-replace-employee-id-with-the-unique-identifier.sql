@@ -1,5 +1,5 @@
-select i.unique_id,
-       e.name
+select unique_id,
+       name
 from Employees e
 left join EmployeeUNI i
 on i.id = e.id
