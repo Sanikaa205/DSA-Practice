@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sanikaa205/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanikaa205/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Sanikaa205/DSA-Practice/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Sanikaa205/DSA-Practice/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Sanikaa205/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/Sanikaa205/DSA-Practice/tree/master/0877-stone-game) |
