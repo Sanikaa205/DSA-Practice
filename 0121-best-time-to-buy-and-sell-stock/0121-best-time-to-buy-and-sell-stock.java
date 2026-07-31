@@ -13,10 +13,7 @@ class Solution {
             else 
             {
                 int profit = price - min;
-                if(maxProfit < profit)
-                {
-                    maxProfit = profit ;
-                }
+                maxProfit = Math.max(maxProfit, profit);
             }
         }
         return maxProfit;
