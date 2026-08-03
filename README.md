@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sanikaa205/DSA-Practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Sanikaa205/DSA-Practice/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Sanikaa205/DSA-Practice/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanikaa205/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Sanikaa205/DSA-Practice/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Sanikaa205/DSA-Practice/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sanikaa205/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Design
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Sanikaa205/DSA-Practice/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/Sanikaa205/DSA-Practice/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Sanikaa205/DSA-Practice/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/Sanikaa205/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
