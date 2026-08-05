@@ -11,10 +11,7 @@ class Solution {
         
         for(int n : nums2)
         {
-            if(set1.contains(n))
-            {
-                ans.add(n);
-            }
+            if(set1.contains(n)) ans.add(n);
         }
         
         int []result = new int[ans.size()];
