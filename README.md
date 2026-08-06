@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1748-sum-of-unique-elements](https://github.com/Sanikaa205/DSA-Practice/tree/master/1748-sum-of-unique-elements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3731-find-missing-elements](https://github.com/Sanikaa205/DSA-Practice/tree/master/3731-find-missing-elements) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Sanikaa205/DSA-Practice/tree/master/0575-distribute-candies) |
 | [1207-unique-number-of-occurrences](https://github.com/Sanikaa205/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/Sanikaa205/DSA-Practice/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sanikaa205/DSA-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sanikaa205/DSA-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sanikaa205/DSA-Practice/tree/master/2351-first-letter-to-appear-twice) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Sanikaa205/DSA-Practice/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sanikaa205/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [1748-sum-of-unique-elements](https://github.com/Sanikaa205/DSA-Practice/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sanikaa205/DSA-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sanikaa205/DSA-Practice/tree/master/2351-first-letter-to-appear-twice) |
 ## Queue
