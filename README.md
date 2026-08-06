@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Sanikaa205/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sanikaa205/DSA-Practice/tree/master/0485-max-consecutive-ones) |
+| [0575-distribute-candies](https://github.com/Sanikaa205/DSA-Practice/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanikaa205/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Sanikaa205/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Sanikaa205/DSA-Practice/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sanikaa205/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sanikaa205/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0575-distribute-candies](https://github.com/Sanikaa205/DSA-Practice/tree/master/0575-distribute-candies) |
 | [1207-unique-number-of-occurrences](https://github.com/Sanikaa205/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sanikaa205/DSA-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
