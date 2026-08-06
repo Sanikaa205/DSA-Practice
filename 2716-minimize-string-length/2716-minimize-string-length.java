@@ -3,9 +3,9 @@ class Solution {
         
         HashSet<Character> set = new HashSet<>();
 
-        for(int i = 0; i < s.length(); i++ )
+        for(char ch : s.toCharArray() )
         {
-            char ch = s.charAt(i);
+            
             set.add(ch);
         }
 
