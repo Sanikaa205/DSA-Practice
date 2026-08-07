@@ -10,10 +10,8 @@ class Solution {
 
         for(char c : stones.toCharArray())
         {
-            if(set.contains(c))
-            {
-                count++;
-            }
+            if(set.contains(c)) count++;
+        
         }
 
         return count;
