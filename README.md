@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Sanikaa205/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Sanikaa205/DSA-Practice/tree/master/0575-distribute-candies) |
+| [0771-jewels-and-stones](https://github.com/Sanikaa205/DSA-Practice/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Sanikaa205/DSA-Practice/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1207-unique-number-of-occurrences](https://github.com/Sanikaa205/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Sanikaa205/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Sanikaa205/DSA-Practice/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Sanikaa205/DSA-Practice/tree/master/0541-reverse-string-ii) |
+| [0771-jewels-and-stones](https://github.com/Sanikaa205/DSA-Practice/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Sanikaa205/DSA-Practice/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Sanikaa205/DSA-Practice/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sanikaa205/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
