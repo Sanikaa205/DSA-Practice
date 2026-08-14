@@ -1,15 +1,13 @@
 class Solution {
     public int maximumLengthSubstring(String s) {
 
+        HashMap<Character , Integer> map = new HashMap<>();
+        int left = 0;
         int ans = 0;
 
-        for(int i = 0; i< s.length();i++)
+        for(int right = 0; right< s.length();right++)
         {
-            HashMap<Character , Integer> map = new HashMap<>();
-
-            for(int j = i ; j< s.length();j++)
-            {
-                char ch = s.charAt(j);
+                char ch = s.charAt(right);
                 if(map.containsKey(ch))
                 {
                     map.put(ch ,map.get(ch)+1);
@@ -18,13 +16,15 @@ class Solution {
                     map.put(ch,1);
                 }
 
-                if(map.get(ch) > 2)
+                while(map.get(ch) > 2)
                 {
-                    break;
+                    char leftchar = s.charAt(left);
+                    map.put(leftchar ,map.get(leftchar)-1);
+                    left++;
                 }
 
-                ans =Math.max(ans,j-i+1);
-            }
+                ans =Math.max(ans,right-left+1);
+            
         }
         return ans;
     }
