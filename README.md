@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Sanikaa205/DSA-Practice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sanikaa205/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Sanikaa205/DSA-Practice/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Sanikaa205/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Sanikaa205/DSA-Practice/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Sanikaa205/DSA-Practice/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/Sanikaa205/DSA-Practice/tree/master/0771-jewels-and-stones) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Sanikaa205/DSA-Practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sanikaa205/DSA-Practice/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Sanikaa205/DSA-Practice/tree/master/0292-nim-game) |
+| [0412-fizz-buzz](https://github.com/Sanikaa205/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanikaa205/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Sanikaa205/DSA-Practice/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sanikaa205/DSA-Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Sanikaa205/DSA-Practice/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Sanikaa205/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Sanikaa205/DSA-Practice/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Sanikaa205/DSA-Practice/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/Sanikaa205/DSA-Practice/tree/master/1920-build-array-from-permutation) |
