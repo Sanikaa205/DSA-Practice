@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Sanikaa205/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/Sanikaa205/DSA-Practice/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/Sanikaa205/DSA-Practice/tree/master/0890-find-and-replace-pattern) |
+| [0905-sort-array-by-parity](https://github.com/Sanikaa205/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Sanikaa205/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sanikaa205/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Sanikaa205/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanikaa205/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/Sanikaa205/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Sanikaa205/DSA-Practice/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/Sanikaa205/DSA-Practice/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Sanikaa205/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/Sanikaa205/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sanikaa205/DSA-Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Linked List
