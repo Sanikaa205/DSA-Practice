@@ -4,17 +4,10 @@ class Solution {
         int n = nums.length;
         int j = nums[n-1];
         int i = nums[0];
+        int[] freq = new int[51];
 
-        HashMap<Integer , Integer> map = new HashMap<>();
-        for(int num:nums)
-        {
-            if(map.containsKey(num))
-            {
-                 map.put(num,map.get(num)+1);
-            }
-            else{
-                map.put(num,1);
-            }
+         for (int num : nums) {
+            freq[num]++;
         }
         //case 1
         if(k==n)
@@ -34,7 +27,7 @@ class Solution {
             int ans = -1;
             for(int num : nums)
             {
-                if(map.get(num) == 1)
+                if(freq[num] == 1)
                 {
                 ans = Math.max(ans,num);
                 }
@@ -44,16 +37,16 @@ class Solution {
 
         //remaining
 
-        if (map.get(i) == 1 && map.get(j) == 1) 
+        if (freq[i] == 1 && freq[j] == 1) 
         {
             return Math.max(i, j);
         }    
-        else if(map.get(j) == 1)
+        else if(freq[j] == 1)
         {
             return j;
 
         }
-        else if(map.get(i) == 1)
+        else if(freq[i]== 1)
         {
            return i; 
         }
