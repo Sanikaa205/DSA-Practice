@@ -1,24 +1,18 @@
 class Solution {
     public String largestGoodInteger(String num) {
-
-        String ans = "";
-
-        for (int i = 0; i <= num.length() - 3; i++) {
-
-            char a = num.charAt(i);
-            char b = num.charAt(i + 1);
-            char c = num.charAt(i + 2);
-
-            if (a == b && b == c) {
-
-                String new1 = num.substring(i, i + 3);
-
-                if (ans.equals("") || ans.charAt(0) < new1.charAt(0)) {
-                    ans = new1;
-                }
-            }
-        }
-
-        return ans;
+        if(num.contains("999"))return "999";
+        if(num.contains("888"))return "888";
+        if(num.contains("777"))return "777";
+        if(num.contains("666"))return "666";
+        if(num.contains("555"))return "555";
+        if(num.contains("444"))return "444";
+        if(num.contains("333"))return "333";
+        if(num.contains("222"))return "222";
+        
+        if(num.contains("111"))return "111";
+        
+        if(num.contains("000"))return "000";
+        
+        return "";
     }
 }
