@@ -18,11 +18,13 @@ class Solution {
             }
         }
 
-        int[] ans = new int[nums.length];
-        int index =0 ;
+        arr1.addAll(arr2);   
 
-        for(int num : arr1) ans[index++] = num;
-        for(int num : arr2) ans[index++] = num;
+        int[] ans = new int[arr1.size()];
+        for(int i= 0;i<arr1.size();i++)
+        {
+            ans[i] = arr1.get(i);
+        }
 
         return ans;
         
